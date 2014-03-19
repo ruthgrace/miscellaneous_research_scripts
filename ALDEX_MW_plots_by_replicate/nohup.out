@@ -1,0 +1,28 @@
+Loading required package: KernSmooth
+KernSmooth 2.23 loaded
+Copyright M. P. Wand 1997-2009
+[1] "starting gut analysis for A replicates..."
+null device 
+          1 
+[1] "done gut analysis for A replicates"
+[1] "starting gut analysis for B replicates..."
+null device 
+          1 
+[1] "done gut analysis for B replicates"
+[1] "starting gut analysis for C replicates..."
+null device 
+          1 
+[1] "done gut analysis for C replicates"
+[1] "starting saliva analysis for A replicates..."
+null device 
+          1 
+[1] "done saliva analysis for A replicates"
+[1] "starting saliva analysis for B replicates..."
+null device 
+          1 
+[1] "done saliva analysis for B replicates"
+[1] "starting saliva analysis for C replicates..."
+null device 
+          1 
+[1] "done saliva analysis for C replicates"
+[1] "starting analysis for A vs B replicates..."
